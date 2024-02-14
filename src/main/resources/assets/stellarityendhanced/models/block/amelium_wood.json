@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "stellarityendhanced:block/amelium_log",
+    "side": "stellarityendhanced:block/amelium_log"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "stellarityendhanced:block/amelium_grass"
+      },
+      {
+        "model": "stellarityendhanced:block/amelium_grass",
+        "y": 90
+      },
+      {
+        "model": "stellarityendhanced:block/amelium_grass",
+        "y": 180
+      },
+      {
+        "model": "stellarityendhanced:block/amelium_grass",
+        "y": 270
+      }
+    ]
+  }
+}

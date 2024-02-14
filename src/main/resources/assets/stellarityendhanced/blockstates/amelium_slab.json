@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stellarityendhanced:block/amelium_slab"
+    },
+    "type=double": {
+      "model": "stellarityendhanced:block/amelium_plank"
+    },
+    "type=top": {
+      "model": "stellarityendhanced:block/amelium_slab_top"
+    }
+  }
+}

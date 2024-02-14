@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "stellarityendhanced:block/amelium_plank",
+    "side": "stellarityendhanced:block/amelium_plank",
+    "top": "stellarityendhanced:block/amelium_plank"
+  }
+}

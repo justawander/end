@@ -1,0 +1,24 @@
+{
+  "item.stellarityendhanced.pixie_dust": "Pixie Dust",
+  "item.stellarityendhanced.hallowed_ingot": "Hallowed Ingot",
+  "item.stellarityendhanced.enderite": "Enderite",
+
+  "block.stellarityendhanced.amelium_plank": "Amelium Planks",
+  "block.stellarityendhanced.amelium_grass": "Amelium",
+  "block.stellarityendhanced.amelium_leaves": "Amelium Leaves",
+  "block.stellarityendhanced.amelium_log": "Amelium Log",
+  "block.stellarityendhanced.amelium_wood": "Amelium Wood",
+  "block.stellarityendhanced.stripped_amelium_log": "Stripped Amelium Log",
+  "block.stellarityendhanced.stripped_amelium_wood": "Stripped Amelium Wood",
+  "block.stellarityendhanced.amelium_stairs": "Amelium Stairs",
+  "block.stellarityendhanced.amelium_slab": "Amelium Slab",
+  "block.stellarityendhanced.amelium_button": "Amelium Button",
+  "block.stellarityendhanced.amelium_pressure_plate": "Amelium Pressure Plate",
+  "block.stellarityendhanced.amelium_door": "Amelium Door",
+  "block.stellarityendhanced.amelium_trapdoor": "Amelium Trapdoor",
+  "block.stellarityendhanced.amelium_fence": "Amelium Fence",
+  "block.stellarityendhanced.amelium_fence_gate": "Amelium Fence Gate",
+  "block.stellarityendhanced.enderite_ore": "Enderite Ore",
+
+  "creativetab.stellarity_tab": "Stellarity"
+}

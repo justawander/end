@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "stellarityendhanced:block/stripped_amelium_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "stellarityendhanced:block/stripped_amelium_wood"
+    },
+    "axis=z": {
+      "model": "stellarityendhanced:block/stripped_amelium_wood_horizontal",
+      "x": 90
+    }
+  }
+}
